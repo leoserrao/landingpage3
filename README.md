@@ -2,4 +2,4 @@
 
 [https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic](https://github.com/leoserrao/landingpage3/blob/main/LICENSE)
 
-https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic
+

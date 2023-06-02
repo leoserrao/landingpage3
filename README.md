@@ -4,6 +4,11 @@
 
 
 ## Sobre o projeto
+Modelo de Landing Page para E-book em HTML, CSS e Javascript.
 
 ## Layout Web
 !.[Web 1].(https://github.com/leoserrao/landingpage3/blob/main/assets/tela1.png)
+
+## Tecnologia utilizadas
+### Front end
+HTML5 | CSS | Javascript

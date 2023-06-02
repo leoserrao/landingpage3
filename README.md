@@ -1,6 +1,6 @@
 # Modelo de Landing Page para E-book 3
 <img alt="GitHub" src="https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic">
-[https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic](https://github.com/leoserrao/landingpage3/blob/main/LICENSE)
+https://github.com/leoserrao/landingpage3/blob/main/LICENSE
 
 
 ## Sobre o projeto

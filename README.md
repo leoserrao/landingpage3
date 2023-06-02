@@ -8,7 +8,7 @@ Modelo de Landing Page para E-book em HTML, CSS e Javascript.
 
 ## Layout Web
 
-<img width="400" height="360" src="assets/tela1.png" alt="Tela 1 - Layout Web do app">
+<img src="assets/tela1.png" alt="Tela 1 - Layout Web do app">
 
 ## Tecnologia utilizadas
 ### Front end

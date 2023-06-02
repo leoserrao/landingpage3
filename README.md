@@ -2,6 +2,13 @@
 
 [https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic](https://github.com/leoserrao/landingpage3/blob/main/LICENSE)
 
+<img alt="GitHub" src="https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic">
+
+.. image:: https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic
+   :alt: GitHub
+   
+   image:https://img.shields.io/github/license/leoserrao/landingpage3?style=plastic[GitHub]
+
 
 ## Sobre o projeto
 Modelo de Landing Page para E-book em HTML, CSS e Javascript.

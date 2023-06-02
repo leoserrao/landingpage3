@@ -12,3 +12,6 @@ Modelo de Landing Page para E-book em HTML, CSS e Javascript.
 ## Tecnologia utilizadas
 ### Front end
 HTML5 | CSS | Javascript
+
+## Link do App
+https://landingpage-ebook3.vercel.app/
